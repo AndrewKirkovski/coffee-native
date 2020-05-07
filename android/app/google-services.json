@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "546693452456",
+    "firebase_url": "https://coffeenative-977c7.firebaseio.com",
+    "project_id": "coffeenative-977c7",
+    "storage_bucket": "coffeenative-977c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546693452456:android:befa2090058a7132d8e89d",
+        "android_client_info": {
+          "package_name": "com.coffeenative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546693452456-60pnblht3u51lmur59qqelovrbn61lv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwsHQKCCZmIqqYG7inFJmHR5cNRVPGx2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546693452456-60pnblht3u51lmur59qqelovrbn61lv2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
